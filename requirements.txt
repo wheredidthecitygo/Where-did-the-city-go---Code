@@ -1,0 +1,17 @@
+pandas
+requests
+pillow
+tqdm
+pyarrow
+# Pytorch (instrucciones específicas según tu sistema, pero básico:)
+torch
+# CLIP oficial de OpenAI
+git+https://github.com/openai/CLIP.git
+umap-learn
+matplotlib
+scikit-image
+colorcet
+datashader
+bokeh
+holoviews
+aiohttp
